@@ -11,3 +11,17 @@
 
 ##  @Embedded
  * A anotação JPA @Embedded é usada para embutir um tipo em outra entidade.
+
+
+## Exemplo:
+## Entidade - Aluno
+Propriedades:
+* nome, 
+* telefone
+
+## Embeddable - Endereco
+Propriedades:
+* Rua,
+* Endereco,
+* Complemento,
+* Numero
