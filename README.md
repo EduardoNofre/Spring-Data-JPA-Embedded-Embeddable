@@ -25,3 +25,17 @@ Propriedades:
 * Endereco,
 * Complemento,
 * Numero
+
+## @Embedded incorporar Endereco em Aluno
+Resultado final:
+* nome, 
+* telefone
+* Rua,
+* Endereco,
+* Complemento,
+* Numero
+
+Observação:
+O que acontece e que as Embeddable @Embedded em corpora endereço em aluno  
+
+
