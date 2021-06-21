@@ -3,7 +3,6 @@ package com.example.demo.entity;
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
 import javax.persistence.ManyToOne;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.Size;
 
@@ -16,10 +15,6 @@ import lombok.Setter;
 @Setter
 @Table(name = "Endereco")
 public class Endereco {
-
-	@Schema(description = "id_endereco.", example = "123", required = true)
-	@Column(name = "id_endereco", length = 9)
-	private Integer id_endereco;
 	
 	@Schema(description = "rua.", example = "abc", required = true)
 	@Size(max = 50)
