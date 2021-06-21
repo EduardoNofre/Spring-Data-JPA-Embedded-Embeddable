@@ -36,6 +36,6 @@ Resultado final:
 * Numero
 
 Observação:
-O que acontece e que as Embeddable @Embedded em corpora endereço em aluno  
+O que acontece e que as Embeddable @Embedded em incorpora endereço em aluno  
 
 
